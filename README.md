@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binmouse" alt="binmouse" /></a> </p>
 
-- 🔭 I’m currently working on [Kana learning game](https://github.com/BinMouse/kana_game)
+- 🔭 I’m currently working on University Class Register
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
